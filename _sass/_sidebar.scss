@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(-20px, 0 , 0);
+          transform: translate3d(-20px, 0 , 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -31,7 +31,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $sans-serif;
   }
 
   h3, h4 {
@@ -72,7 +72,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 56px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -84,10 +84,12 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    width: 120px;
+    border-radius: 25px;
+    align-self: center;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 2px;
       border: 1px solid $border-color;
     }
   }
@@ -95,10 +97,14 @@
 
 .author__content {
   display: table-cell;
+  width: 300px;
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  text-align: left;
+  color: $iowared;
+  font-size: $type-size-4;
 
   @include breakpoint($large) {
     display: block;
@@ -118,19 +124,22 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
+  font-weight: bold;
 }
 
 .author__bio {
   margin: 0;
-
+  width: 150px; //change this
   @include breakpoint($large) {
-    margin-top: 10px;
+    margin-top: 3px;
     margin-bottom: 20px;
   }
 }
 
 .author__urls-wrapper {
+  //color: $iowared;
+  width: 150px;
   position: relative;
   display: table-cell;
   vertical-align: middle;
@@ -159,6 +168,10 @@
 }
 
 .author__urls {
+
+  //color: $iowared;
+  font-size: $type-size-4;
+  text-align: left;
   display: none;
   position: absolute;
   right: 0;
@@ -217,7 +230,11 @@
   }
 
   li {
-    white-space: nowrap;
+    //white-space: nowrap;
+    color: $iowared;
+    width: 150px;
+
+  
   }
 
   a {

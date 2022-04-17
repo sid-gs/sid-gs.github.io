@@ -7,13 +7,26 @@ html {
   min-height: 100%;
 }
 
-body {
+// Grad images
+
+img[alt=gradim] {
+  height: 100px;
+  border-radius: 25px;
+  padding: 0;
   margin: 0;
+  border: 2px solid $iowared;
+}
+
+body {
+  margin: auto;
   padding: 0;
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.25;
+  font-size: 0.8em;
+  width: 900px;
+
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -26,15 +39,16 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  //color: $iowared;
 }
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-3;
+  font-size: $type-size-3; /*sgs 3--> 6  */
 }
 
 h2 {
-  font-size: $type-size-4;
+  font-size: $type-size-4; 
 }
 
 h3 {
@@ -160,6 +174,7 @@ hr {
   border-top: 1px solid $border-color;
 }
 
+
 /* lists */
 
 ul li,
@@ -200,6 +215,7 @@ figure {
     -webkit-transition: $global-transition;
     transition: $global-transition;
   }
+
 
   > a {
     display: block;
@@ -313,3 +329,6 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
+
