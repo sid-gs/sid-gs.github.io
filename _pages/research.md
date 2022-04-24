@@ -24,7 +24,7 @@ Past work has focused on turbulence, subgrid modeling and inverse problems.
 <!-- <div class="pub"></div> -->
 ### Journal Articles 
 
-J06 | 2021 | PRF | SGS, Ristorcelli |  Lagrangian gradient transport | pdf |  [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.023202) | [bib](../files/bib/random.txt)
+J06 | 2021 | PRF | SGS, Ristorcelli |  Lagrangian gradient transport | pdf |  [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.023202) | [bib](../files/bib/j06.txt)
 J05 | 2019 | JFM | Dwivedi, SGS, Nichols, Candler, Jovanovic |  Hypersonic reattachment streaks | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/reattachment-streaks-in-hypersonic-compression-ramp-flow-an-inputoutput-analysis/8FEEF5B0BCD0BB68A32C699420C72185) | bib
 J04 | 2018 | PRF | SGS, Dwivedi, Candler, Nichols |  Hypersonic separated BL global instability | pdf | [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.093901) | bib
 J03 | 2018 | JFM | SGS, Candler |  Reynolds LES in variable-density turbulence | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/subgridscale-effects-in-compressible-variabledensity-decaying-turbulence/E2971C0967CD9E246576AFF35EB03BFA) | bib
