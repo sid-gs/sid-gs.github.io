@@ -18,7 +18,7 @@ Students aspiring for a PhD degree, who have experience and interests in scienti
 at the intersection of mechanics, applied physics and mathematics, please [email](mailto:sidgs@iastate.edu) me.
 
 Our lab provides opportunities to develop skills in high performance computing, numerical methods for computational physics,
-big data analysis and scientific machine learning and optimization. 
+big data analysis, scientific machine learning and optimization. 
 
 We collaborate across academia and national labs, which provides
 several opportunities for internships and exciting future career prospects in R&D.
