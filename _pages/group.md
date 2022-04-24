@@ -34,6 +34,12 @@ We are looking to expand!
 <div class="grad"></div>
 
 ![gradim](../images/einstein.jpg)  | Placeholder  |![gradim](../images/einstein.jpg)  | Placeholder 
+
+
+## Undergraduate students
+
+<div class="grad"></div>
+
 ![gradim](../images/einstein.jpg)  | Placeholder  |![gradim](../images/einstein.jpg)  | Placeholder 
 
 <!-- 
