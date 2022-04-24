@@ -32,6 +32,7 @@ Please see our [Recruitment Flyer](../files/cv.pdf).
 We are looking to expand!
 
 <div class="grad"></div>
+
 ![gradim](../images/einstein.jpg)  | Placeholder  |![gradim](../images/einstein.jpg)  | Placeholder 
 ![gradim](../images/einstein.jpg)  | Placeholder  |![gradim](../images/einstein.jpg)  | Placeholder 
 
