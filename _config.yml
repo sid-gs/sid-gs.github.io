@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "home"
+title                    : "GS research group"
 title_separator          : "-"
 name                     : &name "Sidharth GS"
 description              : &description "Academic website of GS Sidharth group"
