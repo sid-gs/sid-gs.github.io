@@ -22,8 +22,7 @@ We develop and use tools in applied mathematics for applications in engineering 
 
  
 ## News
-- Our lab is looking to recruit PhD students! (Please see our [Recruitment Flyer](../files/cv.pdf).
-)
+- Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](../files/cv.pdf)
 
 
 <!-- For more info
