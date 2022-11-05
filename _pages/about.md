@@ -18,11 +18,13 @@ redirect_from:
 
 ## About us
 
-We develop and use tools in applied mathematics for applications in engineering and natural sciences. The tools involve computations, modeling and optimization.  Physical processes of interest include mix and burn, high temperature and multimaterial flows, turbulence and discovery of new mechanisms in fluid mechanics. Some applications of interest are hypersonic aerodynamics, high-speed propulsion, fusion energy and sustainable energy systems.
+We develop and use tools in applied mathematics for applications in engineering and natural sciences. The tools involve computations, modeling and optimization.  Physical processes of interest include mix and burn, high temperature and multimaterial flows, turbulence and discovery of new mechanisms in fluid mechanics. Some applications of interest are hypersonic aerodynamics, high-speed propulsion, fusion energy, geophysical fluid dynamics and sustainable energy systems.
 
  
 ## News
-- Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](../files/cv.pdf)
+- Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](./../files/flyer.pdf)
+- Invited seminar at Penn State [FDRC Seminar Series](https://www.fdrc.psu.edu/seminars.html)
+- '[Oblique transition in hypersonic double-wedge flow](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/oblique-transition-in-hypersonic-doublewedge-flow/69E171F90F3CC7FCF4F7D8FA85F7ABC1)' published in Journal of Fluid Mechanics 
 
 
 <!-- For more info

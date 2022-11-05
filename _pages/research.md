@@ -14,9 +14,20 @@ redirect_from:
 
 <br/>
 
-## Research themes 
+## Research projects 
+![](../images/rt_iowacolors.png)
 
-Past work has focused on turbulence, subgrid modeling and inverse problems.
+### Current projects
+Please reach out to us for information on current and upcoming projects.
+
+### Past projects
+
+-- Feature-based density reconstruction in implosions <br>
+-- Transition to turbulence in Rayleigh-Taylor unstable flow <br>
+-- Gradient transport for turbulent fluxes of second moments<br>
+-- Reynolds-filtered Navier-Stokes for compressible variable-density turbulence <br>
+-- LES of compressible turbulent reacting flows <br>
+-- Instabilities in hypersonic flow on compression ramps <br>
 
 
 ## Publications 
@@ -24,7 +35,8 @@ Past work has focused on turbulence, subgrid modeling and inverse problems.
 <!-- <div class="pub"></div> -->
 ### Journal Articles 
 
-J06 | 2021 | PRF | SGS, Ristorcelli |  Lagrangian gradient transport | pdf |  [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.023202) | [bib](../files/bib/j06.txt)
+J07 | 2022 | JFM | Dwivedi, SGS, Jovanovic |  Oblique transition in hypersonic double wedge | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/oblique-transition-in-hypersonic-doublewedge-flow/69E171F90F3CC7FCF4F7D8FA85F7ABC1) | bib
+J06 | 2021 | PRF | SGS, Ristorcelli |  Lagrangian gradient transport for third moments | pdf |  [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.023202) | bib 
 J05 | 2019 | JFM | Dwivedi, SGS, Nichols, Candler, Jovanovic |  Hypersonic reattachment streaks | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/reattachment-streaks-in-hypersonic-compression-ramp-flow-an-inputoutput-analysis/8FEEF5B0BCD0BB68A32C699420C72185) | bib
 J04 | 2018 | PRF | SGS, Dwivedi, Candler, Nichols |  Hypersonic separated BL global instability | pdf | [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.093901) | bib
 J03 | 2018 | JFM | SGS, Candler |  Reynolds LES in variable-density turbulence | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/subgridscale-effects-in-compressible-variabledensity-decaying-turbulence/E2971C0967CD9E246576AFF35EB03BFA) | bib
