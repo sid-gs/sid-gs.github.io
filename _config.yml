@@ -11,15 +11,11 @@ title                    : "GS research"
 title_separator          : "-"
 name                     : &name "Sidharth GS"
 description              : &description "Academic website of GS Sidharth group"
-url                      : "https://sid-gs_updated.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/updated" # the subpath of your site, e.g. "/blog"
+url                      : "https://sid-gs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 #url                      : "http://localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
-<<<<<<< HEAD
-#repository               : sid-gs.github.io
-=======
-repository               : sid-gs.updated.github.io
->>>>>>> c75de34299f40b10c74e0a828ba152cfdc867119
+repository               : sid-gs.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
