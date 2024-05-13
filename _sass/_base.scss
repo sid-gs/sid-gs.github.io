@@ -11,9 +11,11 @@ html {
 
 img[alt=gradim] {
   height: 100px;
+  width: 75px;
   border-radius: 25px;
   padding: 0;
   margin: 0;
+  object-fit: cover;
   border: 2px solid $iowared;
 }
 

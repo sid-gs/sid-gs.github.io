@@ -12,7 +12,7 @@ redirect_from:
   - /bio.html
 ---
 
-[Curriculum Vitae](../files/cv.pdf)
+<!-- [Curriculum Vitae](../files/cv.pdf) -->
 
 ## Education and work 
 

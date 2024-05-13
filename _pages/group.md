@@ -23,27 +23,35 @@ big data analysis, scientific machine learning and optimization.
 We collaborate with researchers across academia, national labs and industry, which provides
 several opportunities for internships and exciting future career prospects in R&D.
 
-We currently have openings for interested graduate and undergraduate students.  
-Please see our [Recruitment Flyer](../files/flyer.pdf).
+We are always looking for interested and motivated students for PhD. So, please reach out for available positions. 
+<!-- We currently have openings for interested graduate and undergraduate students.  
+Please see our [Recruitment Flyer](../files/flyer.pdf). -->
 
 
-## Graduate Students
-
-We are looking to expand!
-
-<div class="grad"></div>
-
-![gradim](../images/einstein.jpg)  | Placeholder  |![gradim](../images/einstein.jpg)  | Placeholder 
+## Students
 
 
-## Undergraduate students
 
 <div class="grad"></div>
 
-![gradim](../images/einstein.jpg)  | Placeholder  |![gradim](../images/einstein.jpg)  | Placeholder 
+![gradim](../images/laad.jpg)  | **Partth Laad** <br> PhD (23-)  <br> DoD NDSEG Fellow <br>  UG Rutgers |![gradim](../images/ben.jpeg)  | **Benjamin Turner**  <br> MS/PhD (24-) <br>  UG Iowa State <br> <br> 
+![gradim](../images/lim.jpeg)  | **Cai Min Lim** <br> MS (23-) <br> UG UT Malaysia <br> <br> |
+
+
+
+<!-- ## Undergraduate students
+![gradim](../images/hilker.png)  | **John Hilker** <br> BS <br> CoE Boeing Research Fellow <br> UG Iowa State 
+<div class="grad"></div>
+
+![gradim](../images/einstein.jpg)  | Placeholder  |![gradim](../images/einstein.jpg)  | Placeholder  -->
 
 
 ## Students advised
+
+### At Iowa State
+
+John Hilker  | UG | Supersonic in-draft wind tunnel  | Year | 2023-24
+William Skamser | UG | Parallel Eigenvalue Computations | Fall | 2023  
 
 
 ### At LANL 
