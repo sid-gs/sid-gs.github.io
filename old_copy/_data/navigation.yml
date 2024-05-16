@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "PI bio"
+    url: /bio/
+
+  - title: "group"
+    url: /group/ 
+
+  - title: "teaching"
+    url: /teach/    
+
+  - title: "research"
+    url: /research/    
+    
+  # - title: "misc"
+  #   url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+#  - title: "CV"
+#    url: /cv/
+    
+#  - title: "Guide"
+#    url: /markdown/

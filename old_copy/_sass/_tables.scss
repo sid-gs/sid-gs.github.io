@@ -1,0 +1,68 @@
+/* ==========================================================================
+   TABLES
+   ========================================================================== */
+
+table {
+  margin-bottom: 0px;
+  width: 100%;
+  font-family: $global-font-family;
+  font-size: $type-size-5;
+  border-collapse: collapse;
+  // border: 1px solid $light-gray;
+  border: none;
+  border-style: none;
+  line-height: 1.1;
+
+  & + table {
+    margin-top: 1em;
+  }
+}
+
+thead {
+  background-color: $lighter-gray;
+  border-bottom: 1px solid $light-gray;
+}
+
+th {
+  padding: 2px; //0.5em;
+  margin: 2px;
+  font-weight: bold;
+  text-align: left;
+  border-right: 1px solid $light-gray;
+}
+
+td {
+  padding: 2px; //0.5em;
+  margin: 2px;
+  // border-bottom: 1px solid $light-gray;
+  // border-right: 1px solid $light-gray;
+  border-style: none;
+}
+
+tr, td, th {
+  vertical-align: middle;
+}
+
+// Grad table
+
+// .grad_table table {
+//   margin-bottom: 0px;
+//   width: 100%;
+//   font-family: $global-font-family;
+//   font-size: $type-size-5;
+//   // border-collapse: collapse;
+//   // // border: 1px solid $light-gray;
+//   // border: none;
+//   // border-style: none;
+//   line-height: 1.1;
+// }
+
+
+ div.grad+table td {
+  padding: 25px 0px; //0.5em;
+  text-align: left;
+}
+
+// .grad_table tr, td, th {
+
+// }

@@ -22,18 +22,9 @@ We develop and use tools in applied mathematics for applications in engineering 
 
  
 ## News
-<!-- - Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](./../files/flyer.pdf) -->
-- We are looking to recruit a PhD student and a Postdoctoral scholar to work on compressible reactive flows.
-- Ben is accepted to the LLNL DSTI Summer program
-- Partth receives the DoD NDSEG fellowship for modeling and simulations of supersonic combustion
-- Seminar visit at IISc Bangalore, IIT Madras and IIT Kanpur
-- We presented our work on leading edge receptivity of hypersonic boundary layers at SciTech24 
-
-<!-- - Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](./../files/flyer.pdf)
+- Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](./../files/flyer.pdf)
 - Invited seminar at Penn State [FDRC Seminar Series](https://www.fdrc.psu.edu/seminars.html)
-- '[Oblique transition in hypersonic double-wedge flow](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/oblique-transition-in-hypersonic-doublewedge-flow/69E171F90F3CC7FCF4F7D8FA85F7ABC1)' published in Journal of Fluid Mechanics  -->
-
-<!-- ## Research gallery -->
+- '[Oblique transition in hypersonic double-wedge flow](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/oblique-transition-in-hypersonic-doublewedge-flow/69E171F90F3CC7FCF4F7D8FA85F7ABC1)' published in Journal of Fluid Mechanics 
 
 
 <!-- For more info

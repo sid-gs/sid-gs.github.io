@@ -12,7 +12,7 @@ redirect_from:
   - /bio.html
 ---
 
-<!-- [Curriculum Vitae](../files/cv.pdf) -->
+[Curriculum Vitae](../files/cv.pdf)
 
 ## Education and work 
 
@@ -23,7 +23,6 @@ IIT Kanpur (AE) | BTech  | 2008-12
 
 ### Visiting appointments
 
-Penn State (ICDS, [Grauer Lab](http://samgrauer.ca/)) | Summer 2023
 TU Munich (SFBTRR40) | Summer 2017
 Ecole Centrale Paris (Applied Maths and Systems lab) | Summer 2011
 
