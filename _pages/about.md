@@ -24,10 +24,11 @@ We develop and use tools in applied mathematics for applications in engineering 
 ## News
 <!-- - Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](./../files/flyer.pdf) -->
 - We are looking to recruit a PhD student and a Postdoctoral scholar to work on compressible reactive flows.
-- We are inviting abstracts for the [Workshop on Coherent Structures for Turbulence Modeling](https://web.cvent.com/event/4a4915c2-97b8-48d6-9770-6f9ff7384e62/summary) (Nov 20-21st 2024 in Santa Fe, NM)
 
 
 <!-- 
+- We are looking to recruit a PhD student and a Postdoctoral scholar to work on compressible reactive flows.
+- We are inviting abstracts for the [Workshop on Coherent Structures for Turbulence Modeling](https://web.cvent.com/event/4a4915c2-97b8-48d6-9770-6f9ff7384e62/summary) (Nov 20-21st 2024 in Santa Fe, NM)
 - Ben is accepted to the LLNL DSTI Summer program
 - Partth receives the DoD NDSEG fellowship for modeling and simulations of supersonic combustion
 - Seminar visit at IISc Bangalore, IIT Madras and IIT Kanpur
