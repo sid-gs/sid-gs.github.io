@@ -46,10 +46,6 @@ J01 | 2013 | JFS | Mittal, SGS | Re 100 oblique vortex shedding behind cylinder 
 
 ### Conference Articles 
 
-C23 | 2025 | AIAA | SGS, Dwivedi | Receptivity of Hypersonic BL to 3D disturbances | pdf | bib 
-C22 | 2025 | AIAA | Turner, SGS |  Linear analysis of reactive flows | pdf | bib 
-C21 | 2025 | AIAA | Lim, SGS |  Dynamically consistent Data-Assimilation | pdf | bib 
-C20 | 2024 | AIAA | Laad, Dwivedi, SGS |  Resolvent modes of compressible TBL | pdf | bib 
 C19 | 2025 | AIAA | Hilker, SGS |  Diffuser design for Supersonic In-draft tunnel | pdf | bib
 C18 | 2024 | AIAA | SGS, Dwivedi |  Disturbance receptivity of hypersonic BL | pdf | bib
 C17 | 2023 | COSI | De, Klasky, Korokbin, SGS, Xu  |  Parameter estimation for radiography | pdf  | bib
