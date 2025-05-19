@@ -18,7 +18,7 @@ redirect_from:
 
 ## About us
 
-We develop and use tools in applied mathematics for applications in engineering and natural sciences. The tools involve computations, modeling and optimization.  Physical processes of interest include mix and burn, high temperature and multimaterial flows, turbulence and discovery of new mechanisms in fluid mechanics. Some applications of interest are hypersonic aerodynamics, high-speed propulsion, fusion energy, geophysical fluid dynamics and sustainable energy systems.
+We develop and use tools in applied mathematics for applications in engineering and natural sciences. The tools involve modeling, learning, computing and optimization.  Physical processes of interest include mix and burn, high temperature and multimaterial flows, turbulence and discovery of new mechanisms in fluid mechanics. Some applications of interest are hypersonic aerodynamics, high-speed propulsion, fusion energy, geophysical fluid dynamics and sustainable energy systems.
 
  
 ## News
