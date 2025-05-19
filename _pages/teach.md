@@ -14,7 +14,7 @@ redirect_from:
 
 ## AERE 311: Compressible Aerodynamics
 
-[Spring 23, Fall 23]
+[Spring 23, Fall 23/24]
 
 Thermodynamics Review <br>
 Compressible flow equations <br>
@@ -35,7 +35,7 @@ Introduction to Transonic and Hypersonic flow <br>
 
 ## AERE 532: Compressible Flows
 
-[Spring 24]
+[Spring 24/25]
 
 Compressible Navier-Stokes equations <br>
 Compressible vorticity equation <br>
