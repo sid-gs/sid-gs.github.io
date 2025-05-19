@@ -22,8 +22,12 @@ We develop and use tools in applied mathematics for applications in engineering 
 
  
 ## News
-<!-- - Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](./../files/flyer.pdf) -->
-- We are looking to recruit a PhD student to work on compressible reactive flows.
+- Ben joins Computational Physics Summer Program at LANL
+- Seminar visit at Aerospace Engineering, IIT Bombay
+<!-- - Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](./../files/flyer.pdf) 
+- We are looking to recruit a PhD student to work on compressible reactive flows. -->
+
+
 
 
 <!-- 
