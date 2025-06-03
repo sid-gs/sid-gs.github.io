@@ -35,6 +35,7 @@ Please reach out to us for information on current and upcoming projects.
 <!-- <div class="pub"></div> -->
 ### Journal Articles 
 
+<span style="color:#d3d3d3"> J08 | 2025 | Arx | Dwivedi, SGS, Jovanovic |  Oblique transition in hypersonic double wedge | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/oblique-transition-in-hypersonic-doublewedge-flow/69E171F90F3CC7FCF4F7D8FA85F7ABC1) | bib </span>
 J07 | 2022 | JFM | Dwivedi, SGS, Jovanovic |  Oblique transition in hypersonic double wedge | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/oblique-transition-in-hypersonic-doublewedge-flow/69E171F90F3CC7FCF4F7D8FA85F7ABC1) | bib
 J06 | 2021 | PRF | SGS, Ristorcelli |  Lagrangian gradient transport for third moments | pdf |  [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.023202) | bib 
 J05 | 2019 | JFM | Dwivedi, SGS, Nichols, Candler, Jovanovic |  Hypersonic reattachment streaks | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/reattachment-streaks-in-hypersonic-compression-ramp-flow-an-inputoutput-analysis/8FEEF5B0BCD0BB68A32C699420C72185) | bib
