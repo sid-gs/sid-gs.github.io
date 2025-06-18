@@ -50,18 +50,18 @@ Please see our [Recruitment Flyer](../files/flyer.pdf). -->
 
 ### At Iowa State
 
-L Vasconcellos  | UG | Optimal transport based grid adaptation  | Year | 2024-25
-J Hilker  | UG | Supersonic in-draft wind tunnel  | Year | 2023-24
-W Skamser | UG | Parallel Eigenvalue Computations | Fall | 2023  
+Vasconcellos, L  | UG | Optimal transport based grid adaptation  | Year | 2024-25
+Hilker, J  | UG | Supersonic in-draft wind tunnel  | Year | 2023-24
+Skamser, W | UG | Parallel Eigenvalue Computations | Fall | 2023  
 
 
 ### At LANL 
 
-Anneli Brackbill |  Oregon State | Nuclear Engg. | Summer| 2019
-Alex Somers |  Penn State  | Nuclear Engg. | Summer | 2020
-Francisco Holguin  | Michigan  | Astronomy | Summer |2020
-Joseph Molnar | Penn State | Mech. Engg. |  Summer |2022
-Sheel Nidhan| UC San Diego | Mech. & Aerosp. Engg. |  Spring| 2022
+Brackbill, A |  Oregon State | Nuclear Engg. | Summer| 2019
+Somers, A |  Penn State  | Nuclear Engg. | Summer | 2020
+Holguin, F  | Michigan  | Astronomy | Summer |2020
+Molnar, J | Penn State | Mech. Engg. |  Summer |2022
+Nidhan, S| UC San Diego | Mech. & Aerosp. Engg. |  Spring| 2022
 
 <!-- 
 {: .grad_table } -->
