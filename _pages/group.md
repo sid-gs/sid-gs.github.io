@@ -50,9 +50,9 @@ Please see our [Recruitment Flyer](../files/flyer.pdf). -->
 
 ### At Iowa State
 
-Lucas T<br>  Vasconcellos  | UG | Optimal transport based grid adaptation  | Year | 2024-25
-John Hilker  | UG | Supersonic in-draft wind tunnel  | Year | 2023-24
-William Skamser | UG | Parallel Eigenvalue Computations | Fall | 2023  
+L Vasconcellos  | UG | Optimal transport based grid adaptation  | Year | 2024-25
+J Hilker  | UG | Supersonic in-draft wind tunnel  | Year | 2023-24
+W Skamser | UG | Parallel Eigenvalue Computations | Fall | 2023  
 
 
 ### At LANL 
