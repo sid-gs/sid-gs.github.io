@@ -23,8 +23,8 @@ Applications of interest include hypersonic aerodynamics, high-speed propulsion,
 
  
 ## News
-- Partth presented preliminary work on oblique detonation waves at ICDERS (30th International Colloquium on the Dynamics of Explosions and Reactive Systems) at Ottawa
-- SGS presented work on Hypersonic Cone-step Flow at ISSW35 at UQ Brisbane
+- Partth presented work on Oblique Detonation Wave System at 30th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS) in Ottawa
+- SGS presented work on Hypersonic Cone-step Flow at ISSW35 in UQ Brisbane
   
 <!-- 
 - Our lab is looking to recruit PhD students! Please see our [Recruitment Flyer](./../files/flyer.pdf) 
