@@ -51,7 +51,7 @@ Please see our [Recruitment Flyer](../files/flyer.pdf). -->
 
 ### At Iowa State
 
-Lim, C M  | MS | Bayesian parameter estimation for reactive flow PDEs   | Year | 2023-25
+Lim, C M  | MS | Bayesian parameter estimation | Year | 2023-25
 Vasconcellos, L  | UG | Optimal transport based grid adaptation  | Year | 2024-25
 Hilker, J  | UG | Supersonic in-draft wind tunnel  | Year | 2023-24
 Skamser, W | UG | Parallel Eigenvalue Computations | Fall | 2023  
