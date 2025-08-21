@@ -35,11 +35,12 @@ Please see our [Recruitment Flyer](../files/flyer.pdf). -->
 <div class="grad"></div>
 
 ![gradim](./../images/laad.jpg)  | **Partth Laad** <br> PhD (23-)  <br> DoD NDSEG Fellow <br>  UG Rutgers |![gradim](./../images/ben.jpeg)  | **Benjamin Turner**  <br> MS/PhD (24-) <br>  UG Iowa State <br> <br> 
-![gradim](./../images/lim.jpeg)  | **Cai Min Lim** <br> MS (23-) <br> UG UT Malaysia <br> <br> |
+
 
 
 
 <!-- ## Undergraduate students
+![gradim](./../images/lim.jpeg)  | **Cai Min Lim** <br> MS (23-) <br> UG UT Malaysia <br> <br> |
 ![gradim](../images/hilker.png)  | **John Hilker** <br> BS <br> CoE Boeing Research Fellow <br> UG Iowa State 
 <div class="grad"></div>
 
@@ -50,6 +51,7 @@ Please see our [Recruitment Flyer](../files/flyer.pdf). -->
 
 ### At Iowa State
 
+Lim, C M  | MS | Bayesian parameter estimation for reactive flow PDEs   | Year | 2023-25
 Vasconcellos, L  | UG | Optimal transport based grid adaptation  | Year | 2024-25
 Hilker, J  | UG | Supersonic in-draft wind tunnel  | Year | 2023-24
 Skamser, W | UG | Parallel Eigenvalue Computations | Fall | 2023  
