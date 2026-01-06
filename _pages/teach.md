@@ -14,7 +14,7 @@ redirect_from:
 
 ## AERE 311: Compressible Aerodynamics
 
-[Spring 23, Fall 23/24]
+[Spring 23, Fall 23/24/25]
 
 Thermodynamics Review <br>
 Compressible flow equations <br>
@@ -48,8 +48,19 @@ Internal compressible flow <br>
 Transonic and Supersonic flows <br>
 High temperature and high Knudsen number flows
 
+## AERE 513: Hypersonic Aerothermodynamics
 
+[Fall 25]
 
+Hypersonic flight mechanics
+Statistical mechanics and kinetic theory
+Thermochemical non-equilibrium
+Hypersonic aerodynamics
+Compressible reacting boundary layers 
+Gas surface interactions and thermal protection systems
+Radiative gas dynamics
+Hypersonic propulsion
+Computational tools and Experimental facilities
 
 
 
