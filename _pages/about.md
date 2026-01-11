@@ -23,6 +23,7 @@ Applications of interest include hypersonic aerodynamics, high-speed propulsion,
 
  
 ## News
+- Our work on [3D detonations](https://arc.aiaa.org/doi/abs/10.2514/6.2026-1018), [oblique detonation wave interactions](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2365) and [transition to turbulence on hypersonic rough blunt nose](https://arc.aiaa.org/doi/abs/10.2514/6.2026-1149) will be presented at SciTech26.
 - Our work on transition to turbulence on a [hypersonic cone-flare](https://schedule.aps.org/dfd/2025/events/J23/2) and behind a [hypersonic sphere](https://schedule.aps.org/dfd/2025/events/K32/7) was presented at APS DFD 2025.
 
   
