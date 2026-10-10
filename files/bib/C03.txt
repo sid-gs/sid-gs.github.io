@@ -1,0 +1,1 @@
+@inproceedings{C03, title={Stretched-Vortex based Subgrid-scale Modeling of Variable-Density Flows}, url={http://dx.doi.org/10.2514/6.2015-2782}, DOI={10.2514/6.2015-2782}, booktitle={45th AIAA Fluid Dynamics Conference}, publisher={American Institute of Aeronautics and Astronautics}, author={Sidharth, G. S. and Candler, Graham V.}, year={2015}, month=June }

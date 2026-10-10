@@ -1,0 +1,1 @@
+@inproceedings{C25, title={Multiscale Enstrophy Dynamics Behind Detonation Waves}, url={http://dx.doi.org/10.2514/6.2026-1018}, DOI={10.2514/6.2026-1018}, booktitle={AIAA SCITECH 2026 Forum}, publisher={American Institute of Aeronautics and Astronautics}, author={Sidharth, G. S.}, year={2026}, month=Jan }

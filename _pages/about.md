@@ -23,8 +23,9 @@ Applications of interest include hypersonic aerodynamics, high-speed propulsion,
 
  
 ## News
-- Our work on [3D detonations](https://arc.aiaa.org/doi/abs/10.2514/6.2026-1018), [oblique detonation wave interactions](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2365) and [transition to turbulence on hypersonic rough blunt nose](https://arc.aiaa.org/doi/abs/10.2514/6.2026-1149) was presented at SciTech26.
-- Our work on transition to turbulence on a [hypersonic cone-flare](https://schedule.aps.org/dfd/2025/events/J23/2) and behind a [hypersonic sphere](https://schedule.aps.org/dfd/2025/events/K32/7) was presented at APS DFD 2025.
+- Our work on [Volumetric-energy-driven turbulent mixing](https://www.iwpctm.org/iwpctm19/) was presented at IWPCTM19.
+- Our work on [hypersonic blunt-forebody receptivity](https://doi.org/10.2514/6.2026-4301), [conical ODW entropy-layer effects](https://doi.org/10.2514/6.2026-4041), [turbulent boundary layers on corrugated surfaces](https://doi.org/10.2514/6.2026-4557) and [nonlinear analysis of hypersonic BL transition](https://doi.org/10.2514/6.2026-4298) was presented at Aviation26.
+<!-- - Our work on transition to turbulence on a [hypersonic cone-flare](https://schedule.aps.org/dfd/2025/events/J23/2) and behind a [hypersonic sphere](https://schedule.aps.org/dfd/2025/events/K32/7) was presented at APS DFD 2025. -->
 
   
 <!-- 

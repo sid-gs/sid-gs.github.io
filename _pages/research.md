@@ -35,41 +35,49 @@ Please reach out to us for information on current and upcoming projects.
 <!-- <div class="pub"></div> -->
 ### Journal Articles 
 
-<span style="color:#d3d3d3">J08</span> | <span style="color:#d3d3d3">2025</span> | <span style="color:#d3d3d3">AꭓV</span> | <span style="color:#d3d3d3"> Jenquin, Cui, Dwivedi, SGS, Jewell</span> | <span style="color:#d3d3d3">Hypersonic cone step flow</span> | <span style="color:#d3d3d3">pdf</span> | <span style="color:#d3d3d3">[url]()</span> | <span style="color:#d3d3d3">bib</span> 
-J07 | 2022 | JFM | Dwivedi, SGS, Jovanovic |  Oblique transition in hypersonic double wedge | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/oblique-transition-in-hypersonic-doublewedge-flow/69E171F90F3CC7FCF4F7D8FA85F7ABC1) | bib
-J06 | 2021 | PRF | SGS, Ristorcelli |  Lagrangian gradient transport for third moments | pdf |  [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.023202) | bib 
-J05 | 2019 | JFM | Dwivedi, SGS, Nichols, Candler, Jovanovic |  Hypersonic reattachment streaks | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/reattachment-streaks-in-hypersonic-compression-ramp-flow-an-inputoutput-analysis/8FEEF5B0BCD0BB68A32C699420C72185) | bib
-J04 | 2018 | PRF | SGS, Dwivedi, Candler, Nichols |  Hypersonic separated BL global instability | pdf | [url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.093901) | bib
-J03 | 2018 | JFM | SGS, Candler |  Reynolds LES in variable-density turbulence | pdf |  [url](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/subgridscale-effects-in-compressible-variabledensity-decaying-turbulence/E2971C0967CD9E246576AFF35EB03BFA) | bib
-J02 | 2014 | IJF | Mittal, SGS, Verma |  FEM formulation for biglobal stability analysis | pdf |  [url](https://onlinelibrary.wiley.com/doi/10.1002/fld.3895) | bib
-J01 | 2013 | JFS | Mittal, SGS | Re 100 oblique vortex shedding behind cylinder | pdf |  [url](https://www.sciencedirect.com/science/article/abs/pii/S0889974613002533) | bib
+J08 | 2026 | JFM | Jenquin, Cui, Dwivedi, SGS, Jewell | Hypersonic cone-step SBLI | [url](https://doi.org/10.1017/jfm.2026.11284) | [bib](/files/bib/J08.txt)
+J07 | 2022 | JFM | Dwivedi, SGS, Jovanovic | Oblique transition in hypersonic double wedge | [url](https://doi.org/10.1017/jfm.2022.697) | [bib](/files/bib/J07.txt)
+J06 | 2021 | PRF | SGS, Ristorcelli | Lagrangian gradient transport for third moments | [url](https://doi.org/10.1103/PhysRevFluids.6.023202) | [bib](/files/bib/J06.txt)
+J05 | 2019 | JFM | Dwivedi, SGS, Nichols, Candler, Jovanovic | Hypersonic reattachment streaks | [url](https://doi.org/10.1017/jfm.2019.702) | [bib](/files/bib/J05.txt)
+J04 | 2018 | PRF | SGS, Dwivedi, Candler, Nichols | Hypersonic separated BL global instability | [url](https://doi.org/10.1103/PhysRevFluids.3.093901) | [bib](/files/bib/J04.txt)
+J03 | 2018 | JFM | SGS, Candler | Reynolds LES in variable-density turbulence | [url](https://doi.org/10.1017/jfm.2018.277) | [bib](/files/bib/J03.txt)
+J02 | 2014 | IJF | Mittal, SGS, Verma | FEM formulation for biglobal stability analysis | [url](https://doi.org/10.1002/fld.3895) | [bib](/files/bib/J02.txt)
+J01 | 2013 | JFS | Mittal, SGS | Re 100 oblique vortex shedding behind cylinder | [url](https://doi.org/10.1016/j.jfluidstructs.2013.11.001) | [bib](/files/bib/J01.txt)
 
 
 ### Conference Articles 
 
-C23 | 2025 | AIAA | SGS, Dwivedi | Receptivity of Hypersonic BL to 3D disturbances | pdf | bib 
-C22 | 2025 | AIAA | Turner, SGS |  Linear analysis of reactive flows | pdf | bib 
-C21 | 2025 | AIAA | Lim, SGS |  Dynamically consistent data-assimilation | pdf | bib 
-C20 | 2024 | AIAA | Laad, Dwivedi, SGS |  Resolvent modes of compressible TBL | pdf | bib 
-C19 | 2025 | AIAA | Hilker, SGS |  Diffuser design for Supersonic In-draft tunnel | pdf | bib
-C18 | 2024 | AIAA | SGS, Dwivedi |  Disturbance receptivity of hypersonic BL | pdf | bib
-C17 | 2023 | COSI | De, Klasky, Korokbin, SGS, Xu  |  Parameter estimation for radiography | pdf  | bib
-C16 | 2023 | IS&A | Xu, Fessler, Klasky, SGS, Schei, McCann |  Learning subpixel features | pdf  | bib
-C15 | 2021 | ICLR | Holguin, SGS, Portwood |  Multigrid + GAN super-resolution | pdf | bib
-C14 | 2021 | IUTAM | SGS, Dwivedi, Candler, Nichols, Jovanovic |  Stability, sensitivity of hypersonic SBLI | pdf | bib
-C13 | 2020 | AIAA | SGS, Ristorcelli |  Anisotropic eddy diffusivity in reactive LES | pdf | bib
-C12 | 2020 | AIAA | Dwivedi, SGS, Hollander, Candler |  Hypersonic Gortler vortices on axisymmetric bodies | pdf | bib
-C11 | 2020 | AIAA | SGS, Ristorcelli |  Subgrid scale expansion | pdf | bib
-C10 | 2019 | AIAA | SGS, Candler |  Reynolds LES of reactive shocked bubble | pdf | bib
-C09 | 2019 | AIAA | Dwivedi,  SGS, Candler, Nichols, Jovanovic |  Input-Output analysis on hypersonic SBLI | pdf | bib
-C08 | 2019 | AIAA | Knutson, SGS, Candler |  Swept finned cone instabilities | pdf | bib
-C07 | 2018 | AIAA | Knutson, SGS, Candler |  Finned cone DNS | pdf | bib
-C06 | 2017 | AIAA | Reinert, SGS, Candler, Komives |  3D Hypersonic double wedge | pdf | bib
-C05 | 2017 | AIAA | SGS, Dwivedi, Candler, Nichols |  Global stability of hypersonic compression ramp | pdf | bib
-C04 | 2016 | AIAA | SGS, Kartha, Candler |  Reynolds LES of reactive supersonic flow | pdf | bib
-C03 | 2015 | AIAA | SGS, Candler |  Variable-density stretched-vortex | pdf | bib
-C02 | 2014 | AIAA | SGS, Candler, Dimotakis |  Subgrid baroclinic torque | pdf | bib
-C01 | 2011 | IUTAM | SGS, Meena, Khan, Mittal | 3D instabilities in spinning and translating cylinder | pdf | bib
+C31 | 2026 | AIAA | SGS, Dwivedi | Receptivity in hypersonic blunt forebody flow | [url](https://doi.org/10.2514/6.2026-4301) | [bib](/files/bib/C31.txt)
+C30 | 2026 | AIAA | SGS, Laad, Anderson | Entropy layer effects on conical ODWs | [url](https://doi.org/10.2514/6.2026-4041) | [bib](/files/bib/C30.txt)
+C29 | 2026 | AIAA | Boda, SGS | RANS of compressible flow on corrugated surfaces | [url](https://doi.org/10.2514/6.2026-4557) | [bib](/files/bib/C29.txt)
+C28 | 2026 | AIAA | Dwivedi, SGS | Nonlinear analysis of hypersonic BL transition | [url](https://doi.org/10.2514/6.2026-4298) | [bib](/files/bib/C28.txt)
+C27 | 2026 | AIAA | SGS, Dwivedi | Hypersonic BL transition on spherical forebody | [url](https://doi.org/10.2514/6.2026-1149) | [bib](/files/bib/C27.txt)
+C26 | 2026 | AIAA | Laad, SGS | Wave interactions in oblique detonations | [url](https://doi.org/10.2514/6.2026-2365) | [bib](/files/bib/C26.txt)
+C25 | 2026 | AIAA | SGS | Multiscale enstrophy behind detonations | [url](https://doi.org/10.2514/6.2026-1018) | [bib](/files/bib/C25.txt)
+C24 | 2025 | AIAA | Laad, Dwivedi, SGS | Resolvent modes of compressible TBL | [url](https://doi.org/10.2514/6.2025-1692) | [bib](/files/bib/C24.txt)
+C23 | 2025 | AIAA | Lim, SGS | Dynamically consistent data-assimilation | [url](https://doi.org/10.2514/6.2025-0393) | [bib](/files/bib/C23.txt)
+C22 | 2025 | AIAA | SGS, Dwivedi | Receptivity of Hypersonic BL to 3D disturbances | [url](https://doi.org/10.2514/6.2025-0309) | [bib](/files/bib/C22.txt)
+C21 | 2025 | AIAA | Turner, SGS | Linear analysis of reactive flows | [url](https://doi.org/10.2514/6.2025-0595) | [bib](/files/bib/C21.txt)
+C20 | 2024 | AIAA | Hilker, SGS | Diffuser design for Supersonic In-draft tunnel | [url](https://doi.org/10.2514/6.2024-85194) | [bib](/files/bib/C20.txt)
+C19 | 2024 | AIAA | SGS, Dwivedi | Disturbance receptivity of hypersonic BL | [url](https://doi.org/10.2514/6.2024-2184) | [bib](/files/bib/C19.txt)
+C18 | 2023 | COSI | De, Klasky, Korobkin, SGS, Xu | Parameter estimation for radiography | [url](https://doi.org/10.1364/cosi.2023.cth3b.4) | [bib](/files/bib/C18.txt)
+C17 | 2023 | IS&A | Xu, Fessler, Klasky, SGS, Schei, McCann | Learning subpixel features | url | bib
+C16 | 2021 | ICLR | Holguin, SGS, Portwood | Multigrid + GAN super-resolution | url | bib
+C15 | 2021 | IUTAM | SGS, Dwivedi, Candler, Nichols, Jovanovic | Stability, sensitivity of hypersonic SBLI | [url](https://doi.org/10.1007/978-3-030-67902-6_42) | [bib](/files/bib/C15.txt)
+C14 | 2020 | AIAA | SGS, Ristorcelli | Anisotropic eddy diffusivity in reactive LES | [url](https://doi.org/10.2514/6.2020-3034) | [bib](/files/bib/C14.txt)
+C13 | 2020 | AIAA | Dwivedi, SGS, Hollender, Candler | Hypersonic Gortler vortices on axisymmetric bodies | [url](https://doi.org/10.2514/6.2020-2987) | [bib](/files/bib/C13.txt)
+C12 | 2020 | AIAA | SGS | Multiscale subgrid decomposition | [url](https://doi.org/10.2514/6.2020-0820) | [bib](/files/bib/C12.txt)
+C11 | 2019 | IWPCTM | SGS, Candler | Reynolds LES of reactive shocked bubble | url | bib
+C10 | 2018 | AIAA | Knutson, SGS, Candler | Swept finned cone instabilities | [url](https://doi.org/10.2514/6.2018-3071) | [bib](/files/bib/C10.txt)
+C09 | 2018 | AIAA | Dwivedi, SGS, Candler, Nichols, Jovanovic | Input-Output analysis on hypersonic SBLI | [url](https://doi.org/10.2514/6.2018-3220) | [bib](/files/bib/C09.txt)
+C08 | 2018 | AIAA | Knutson, SGS, Candler | Finned cone DNS | [url](https://doi.org/10.2514/6.2018-3072) | [bib](/files/bib/C08.txt)
+C07 | 2017 | AIAA | Reinert, SGS, Candler, Komives | 3D Hypersonic double wedge | [url](https://doi.org/10.2514/6.2017-4125) | [bib](/files/bib/C07.txt)
+C06 | 2017 | AIAA | SGS, Dwivedi, Candler, Nichols | Global stability of hypersonic compression ramp | [url](https://doi.org/10.2514/6.2017-3455) | [bib](/files/bib/C06.txt)
+C05 | 2017 | SFB | SGS, Candler | LES of reacting shock-bubble interaction | url | bib
+C04 | 2016 | AIAA | SGS, Kartha, Candler | Reynolds LES of reactive supersonic flow | url | bib
+C03 | 2015 | AIAA | SGS, Candler | Variable-density stretched-vortex | [url](https://doi.org/10.2514/6.2015-2782) | [bib](/files/bib/C03.txt)
+C02 | 2014 | AIAA | SGS, Candler, Dimotakis | Subgrid baroclinic torque | [url](https://doi.org/10.2514/6.2014-3214) | [bib](/files/bib/C02.txt)
+C01 | 2011 | IUTAM | Meena, SGS, Khan, Mittal | 3D instabilities in spinning and translating cylinder | url | bib
 
 ### Acronyms 
 
@@ -80,7 +88,6 @@ IJF | International Journal of Numerical Methods in Fluids
 IUTAM | International Union of Theoretical and Applied Mechanics
 AIAA | American Institute of Aeronautics and Astronautics
 ICLR | International Conference on Learning Representations
- |
 SBLI | Shock boundary layer interaction
 LES | Large eddy simulation
 DNS | Direct numerical simulations

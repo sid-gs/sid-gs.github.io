@@ -1,0 +1,1 @@
+@inproceedings{C24, title={Resolvent Informed Reconstruction of Compressible Turbulent Boundary Layers}, url={http://dx.doi.org/10.2514/6.2025-1692}, DOI={10.2514/6.2025-1692}, booktitle={AIAA SCITECH 2025 Forum}, publisher={American Institute of Aeronautics and Astronautics}, author={Laad, Partth A. and Dwivedi, Anubhav and Sidharth, G. S.}, year={2025}, month=Jan }

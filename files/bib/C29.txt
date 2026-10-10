@@ -1,0 +1,1 @@
+@inproceedings{C29, title={Reynolds-Averaged Navier-Stokes Modeling of Compressible Turbulent Flow on Corrugated Surfaces}, url={http://dx.doi.org/10.2514/6.2026-4557}, DOI={10.2514/6.2026-4557}, booktitle={AIAA AVIATION 2026 Forum}, publisher={American Institute of Aeronautics and Astronautics}, author={Boda, Bhavith S. and Sidharth, G. S.}, year={2026}, month=June }

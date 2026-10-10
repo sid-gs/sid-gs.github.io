@@ -1,0 +1,1 @@
+@inproceedings{C02, title={Baroclinic Torque and Implications for Subgrid-Scale Modeling}, url={http://dx.doi.org/10.2514/6.2014-3214}, DOI={10.2514/6.2014-3214}, booktitle={7th AIAA Theoretical Fluid Mechanics Conference}, publisher={American Institute of Aeronautics and Astronautics}, author={Sidharth, G. S. and Candler, Graham V. and Dimotakis, Paul}, year={2014}, month=June }

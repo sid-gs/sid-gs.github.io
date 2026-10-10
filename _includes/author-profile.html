@@ -10,7 +10,13 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
+             class="author__avatar"
+             id="author-avatar-toggle"
+             alt="{{ author.name }}"
+             title="Click to switch photo"
+             data-avatar-new="{{ 'sidgs_avatar.png' | prepend: '/images/' | prepend: base_path }}"
+             data-avatar-old="{{ 'sidgs_avatar_old.png' | prepend: '/images/' | prepend: base_path }}">
     {% endif %}
   </div>
 

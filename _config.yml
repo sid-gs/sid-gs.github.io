@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "GS research"
 title_separator          : "-"
-name                     : &name "Sidharth GS"
+name                     : &name "GS Sidharth"
 description              : &description "Academic website of GS Sidharth group"
 url                      : "https://sid-gs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
