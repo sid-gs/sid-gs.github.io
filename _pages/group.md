@@ -34,12 +34,13 @@ Please see our [Recruitment Flyer](../files/flyer.pdf). -->
 
 <div class="grad"></div>
 
-![gradim](./../images/laad.jpg)  | **Partth Laad** <br> PhD (23-)  <br> DoD NDSEG Fellow <br>  UG Rutgers |![gradim](./../images/ben.jpeg)  | **Benjamin Turner**  <br> MS/PhD (24-) <br>  UG Iowa State <br> <br> 
+![gradim](./../images/laad.jpg)  | **Partth Laad** <br> PhD (23-)  <br> DoD NDSEG Fellow <br>  UG Rutgers |
 ![gradim](./../images/cowles.jpg)  | **Cowles Anderson** <br> PhD (25-)   <br> UG Iowa State <br> <br>
 
 
 
 <!-- ## Undergraduate students
+|![gradim](./../images/ben.jpeg)  | **Benjamin Turner**  <br> MS/PhD (24-) <br>  UG Iowa State <br> <br> 
 ![gradim](./../images/lim.jpeg)  | **Cai Min Lim** <br> MS (23-) <br> UG UT Malaysia <br> <br> |
 ![gradim](../images/hilker.png)  | **John Hilker** <br> BS <br> CoE Boeing Research Fellow <br> UG Iowa State 
 <div class="grad"></div>
@@ -51,6 +52,7 @@ Please see our [Recruitment Flyer](../files/flyer.pdf). -->
 
 ### At Iowa State
 
+Turner, B   | MS | Compressible flow instabilities | Year | 2024-26
 Lim, C   | MS | Bayesian parameter estimation | Year | 2023-25
 Vasconcellos, L  | UG | Optimal transport based grid adaptation  | Year | 2024-25
 Hilker, J  | UG | Supersonic in-draft wind tunnel  | Year | 2023-24
